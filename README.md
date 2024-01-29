@@ -28,7 +28,8 @@ Based on the above data collected from the survey, this dashboard will try to an
 - Average salary of each job title.
 - Happiness with Salary.
 - Happiness with work/Life Banalce
- 
+
+ [Click here to view and Interact with the dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzU3MjRhN2UtZTUzNS00MTdmLTlmMTMtYWU2OTBiYTQ4MDNlIiwidCI6ImZhNjk0NGFmLWNjN2MtNGNkOC05MTU0LWMwMTEzMjc5ODkxMCIsImMiOjl9)
   
   
    
